@@ -18,7 +18,7 @@ function App() {
       <Experience />
       <Contact />
 
-      {/* <Social /> */}
+      <Social />
     </div>
   );
 }
