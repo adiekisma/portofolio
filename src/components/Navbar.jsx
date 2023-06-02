@@ -30,7 +30,7 @@ const Navbar = () => {
     ]
 
     return (
-        <div className='flex justify-between items-center w-full h-20 text-white bg-teal-900 fixed px-4'>
+        <div className='flex justify-between items-center w-full h-15 text-white bg-teal-900 fixed px-4'>
             <div>
                 <h1 className='text-3xl font-semibold text-green-600'>a<span className='text-4xl font-semibold text-gray-300'>i.</span></h1>
             </div>
